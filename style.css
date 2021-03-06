@@ -1,0 +1,36 @@
+#menu_web{
+    background: darkorange;
+}
+.menu:link{
+    background:dodgerblue
+}
+.menu:visited{
+    background: firebrick;
+
+}
+
+.menu:active{
+    background: ghostwhite;
+
+}
+
+
+
+h2{
+    color: crimson;
+    font-size: 30px;
+}
+body{
+    background-color: hsl(0, 0%, 36%);
+    background-attachment: fixed;
+}
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}   
+h2{
+    color: rgb(0, 162, 255);
+    text-align: center;
+}
+
